@@ -26,8 +26,4 @@ private final CarRepository carRepository;
         return carList;
     }
 
-    @Override
-    public void save(Car car) {
-
-    }
 }

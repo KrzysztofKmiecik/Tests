@@ -1,0 +1,1 @@
+INSERT INTO cars (model) values ('bmw')
